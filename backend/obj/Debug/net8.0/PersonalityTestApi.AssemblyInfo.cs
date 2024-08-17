@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PersonalityTestApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65bc76b0708e8056ddd725d47400d750a1adedb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3a13fa499021d626505aa5032ceedd0a9703bc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PersonalityTestApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PersonalityTestApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
