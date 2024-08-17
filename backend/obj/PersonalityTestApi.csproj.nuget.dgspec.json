@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Teamway\\personality-test\\PersonalityTestApi\\PersonalityTestApi.csproj": {}
+    "D:\\Projects\\Teamway\\personality-test\\backend\\PersonalityTestApi.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Teamway\\personality-test\\PersonalityTestApi\\PersonalityTestApi.csproj": {
+    "D:\\Projects\\Teamway\\personality-test\\backend\\PersonalityTestApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Teamway\\personality-test\\PersonalityTestApi\\PersonalityTestApi.csproj",
+        "projectUniqueName": "D:\\Projects\\Teamway\\personality-test\\backend\\PersonalityTestApi.csproj",
         "projectName": "PersonalityTestApi",
-        "projectPath": "D:\\Projects\\Teamway\\personality-test\\PersonalityTestApi\\PersonalityTestApi.csproj",
+        "projectPath": "D:\\Projects\\Teamway\\personality-test\\backend\\PersonalityTestApi.csproj",
         "packagesPath": "C:\\Users\\mtura\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Teamway\\personality-test\\PersonalityTestApi\\obj\\",
+        "outputPath": "D:\\Projects\\Teamway\\personality-test\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mtura\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.8, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
